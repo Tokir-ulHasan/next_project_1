@@ -28,7 +28,7 @@ const Nav = () => {
           height={30}
           className='object-content'
           />
-          <p className='logo_text'>Promtopia</p>
+          <p className=' logo_text orange_gradient '>Sharidea</p>
          </Link>
          {/* Desktop Navigation */}
          <div className='sm:flex hidden'>

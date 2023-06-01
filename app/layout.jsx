@@ -2,8 +2,8 @@ import   '@/styles/globals.css';
 import Nav from '@/components/Nav.jsx'
 import Provider from '@/components/Provider.jsx'
 export const metadata = {
-    title : "Promtopia",
-    description: "Discover & Share AI Prompts"
+    title : "Sharidea",
+    description: "Discover & Share  Idea "
 }
 const RootLayout = ({children}) => {
   return (
